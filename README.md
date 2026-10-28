@@ -86,13 +86,6 @@ Plataforma educativa donde los estudiantes compran cursos, ven el contenido por 
 | [CentinelaApp Dashboard](https://github.com/darksoul333666/laravel-php-centinelApp-dashboard-frontend) | Panel para un sistema de seguridad del hogar con sensores y cerraduras con QR | Laravel · Ionic |
 | [Portafolio](https://github.com/darksoul333666/react-typescript-briefcase-jairo-camarillo) | Mi portafolio profesional | React · MUI |
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=darksoul333666&show_icons=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darksoul333666&layout=compact&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
 <!-- Contacto: descomentar al tener los enlaces reales
 ## 📫 Contacto
 
